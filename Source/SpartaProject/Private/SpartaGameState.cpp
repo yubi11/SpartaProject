@@ -29,7 +29,14 @@ void ASpartaGameState::BeginPlay()
 {
 	Super::BeginPlay();
 
-	StartLevel();
+	//StartLevel();
+
+	FString CurrentMapName = GetWorld()->GetMapName();
+
+	if ( !CurrentMapName.Contains(TEXT("MenuLevel")) )
+	{
+		StartLevel(); // 게임 레벨(BasicLevel 등)에서만 실행
+	}
 
 	GetWorldTimerManager().SetTimer(
 		HUDUpdataTimerHandle, 
