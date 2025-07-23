@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Projects\\NBC\\CH3_Lecture\\SpartaProject\\CH6_Homework\\Source\\CH6_Homework\\CH6_Homework.Build.cs",
+		"E:\\Unreal Projects\\NBC\\CH3_Lecture\\SpartaProject\\CH6_Homework\\Source\\CH6_Homework.Target.cs",
+		"E:\\Unreal Projects\\NBC\\CH3_Lecture\\SpartaProject\\CH6_Homework\\Source\\CH6_HomeworkEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

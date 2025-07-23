@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CH6_Homework-1754.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\CH6_HomeworkEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH6_Homework\CH6_Homework.init.gen.cpp.obj"
+"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH6_Homework\CH6_HomeworkCharacter.gen.cpp.obj"
+"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH6_Homework\CH6_HomeworkGameMode.gen.cpp.obj"
+"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH6_Homework\RotatingPlatform.gen.cpp.obj"
+"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH6_Homework\CH6_Homework.cpp.obj"
+"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH6_Homework\CH6_HomeworkCharacter.cpp.obj"
+"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH6_Homework\CH6_HomeworkGameMode.cpp.obj"
+"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH6_Homework\RotatingPlatform.cpp.obj"
+"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH6_Homework\PerModuleInline.gen.cpp.obj"
+"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH6_Homework\Default.rc2.res"
+/OUT:"E:\Unreal Projects\NBC\CH3_Lecture\SpartaProject\CH6_Homework\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH6_Homework\UnrealEditor-CH6_Homework-1754.lib"

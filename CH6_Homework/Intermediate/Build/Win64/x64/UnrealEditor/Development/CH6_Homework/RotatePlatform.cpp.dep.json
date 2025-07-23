@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\nbc\\ch3_lecture\\spartaproject\\ch6_homework\\source\\ch6_homework\\private\\rotateplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\nbc\\ch3_lecture\\spartaproject\\ch6_homework\\intermediate\\build\\win64\\x64\\ch6_homeworkeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\nbc\\ch3_lecture\\spartaproject\\ch6_homework\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ch6_homework\\definitions.ch6_homework.h",
+            "e:\\unreal projects\\nbc\\ch3_lecture\\spartaproject\\ch6_homework\\source\\ch6_homework\\public\\rotateplatform.h",
+            "e:\\unreal projects\\nbc\\ch3_lecture\\spartaproject\\ch6_homework\\intermediate\\build\\win64\\unrealeditor\\inc\\ch6_homework\\uht\\rotateplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
